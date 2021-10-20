@@ -2,7 +2,7 @@ const button = document.querySelector(('button'))!;
 
 button.addEventListener('click', () => {
     const vall = 34;
-    console.log('Clicled laptop');
+    console.log('Clicled ');
     cryptoResult();
 });
 
